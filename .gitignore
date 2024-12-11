@@ -1,0 +1,15 @@
+# Build directories
+/build/
+/bin/
+/obj/
+
+# Temporary files
+*.tmp
+*.log
+
+# Dataset directories
+/data/raw/
+/data/processed/
+
+# Model checkpoints
+/models/checkpoints/
